@@ -6,5 +6,3 @@ Four csv-datasets were used in the analysis. The datasets are included in the re
 
 In order to know the essential elements like profits per year or per month, SQL was used. Moreover, Python was used to visualize some KPI's.
 To reach the main objectives, it was necessary to implement joins across two or three tables. Moreover, essential operations like percentages were made whithin the join-query type.
-
-In the future, a DAX-Power BI project will be uploaded to create a dashboard and showcase the same conclusions obtained in Python.
